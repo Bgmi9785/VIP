@@ -11,7 +11,7 @@ USER_FILE = "users.json"
 KEY_FILE = "keys.json"
 flooding_process = None
 flooding_command = None
-DEFAULT_THREADS = 120
+DEFAULT_THREADS =1000
 users = {}
 keys = {}
 def load_data():
